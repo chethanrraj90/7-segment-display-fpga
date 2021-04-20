@@ -1,4 +1,4 @@
-# 7-segment-display-fpga
+# 7-segment-display-fpga.
 Design and implement a Seven Segment Display available on the BASYS3 board (FPGA) in VHDL
 
 The aim of this exercise is to learn how to use 4-digit seven segment display available on the BASYS3
